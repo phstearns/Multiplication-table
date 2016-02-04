@@ -22,6 +22,4 @@ Height of multiplication table: 8
   8  16  24  32  40  48  56  64  72  80
 """
 ten = range(1,10)
-print(ten)
-range(1,10)
 print(list(ten))
