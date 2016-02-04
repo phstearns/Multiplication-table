@@ -1,7 +1,7 @@
 """
 multiplication-table.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Payton
+Credit: Ethan
 Assignment:
 
 Write and submit a Python program that prints a multiplication table. The user 
@@ -21,9 +21,4 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
-print("Width of multiplication table: 10")
-print("Height of multiplication table: 8")
-print()
-print("{0:>45} {1:>3}".format(1, 5))
-print("{0:>4}".format(12))
-print("{0:>5}".format(123))
+width = [1,
