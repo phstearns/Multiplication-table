@@ -21,4 +21,8 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
-width = [1,
+width = [1,2,3,4,5,6,7,8,9,10]
+height = [1,2,3,4,5,6,7,8]
+for x in width:
+    for y in height:
+        print("+x*y+ )
