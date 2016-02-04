@@ -24,3 +24,4 @@ Height of multiplication table: 8
 ten = range(1,10)
 print(ten)
 range(1,10)
+print(list(ten))
