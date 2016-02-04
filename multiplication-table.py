@@ -23,6 +23,6 @@ Height of multiplication table: 8
 """
 print("Width of multiplication table: 10")
 print("Height of multiplication table: 8")
-print("{0:>45}".format(1))
+print("{0:>3}".format(1))
 print("{0:>3}".format(12))
 print("The number is: {0:>3}".format(123))
