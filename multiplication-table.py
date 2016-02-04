@@ -23,6 +23,6 @@ Height of multiplication table: 8
 """
 width = [1,2,3,4,5,6,7,8,9,10]
 height = [1,2,3,4,5,6,7,8]
-for x in width:
-    for y in height:
-        print("+x*y+ )
+for x in width: 1
+    for y in height: 1
+        print( "+str("+x*y)+" )
