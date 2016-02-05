@@ -26,4 +26,5 @@ height = int(float(input("What is the height of the multiplication table? ")))
 
 for x in range (1, height+1):
     for y in range (1, width+1):
-        print("{0: <3}".format(height))
+        print("{0: <3}".format(height, width), )
+        print()
