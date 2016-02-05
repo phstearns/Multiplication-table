@@ -21,8 +21,8 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
-width = int(float(input("What is the width of the multiplication table? ")))
-height = int(float(input("What is the height of the multiplication table? ")))
+width = int(float(input("Width of multiplication table: ")))
+height = int(float(input("Height of multiplication table: ")))
 
 for x in range (1, height+1):
     for y in range (1, width+1):
